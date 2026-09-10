@@ -239,3 +239,6 @@ This repository serves as the official landing page for Messenger for Desktop. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Messenger for Desktop today!**
+
+---
+**Last updated:** 2026-09-10 13:15:59 UTC
