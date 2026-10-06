@@ -241,4 +241,4 @@ This repository serves as the official landing page for Messenger for Desktop. T
 **Get the most recent version of Messenger for Desktop today!**
 
 ---
-**Last updated:** 2026-10-06 11:39:50 UTC
+**Last updated:** 2026-10-06 17:43:56 UTC
